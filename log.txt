@@ -1,0 +1,17 @@
+0.0.0
+>[del]trach
+0.1.0
+>[add]file
+]>week2\
+]>week2\Q3.cpp
+0.2.0
+>[add]file
+]>week2\Q2.cpp
+0.2.1
+>[add]files
+]>week2\
+]week2>Q2.exe
+]week2>Q2.o
+0.2.2
+>[add]files
+]>log.txt
