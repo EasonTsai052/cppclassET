@@ -19,4 +19,14 @@
       }
     }
   }
+  [main][1.0.2][2021-0424-12:00]{
+    [add][files](
+      [.cpp ]["/week8/p5.cpp"]
+    )
+    [edt][files]{
+      ["/week8/p5"]{
+        "practice"
+      }
+    }
+  }
 }
