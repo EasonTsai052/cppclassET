@@ -4,4 +4,19 @@
       "log edit"
     )
   }
+  [main][1.0.1][2021-0424-10:56]{
+    [add][files](
+      [foder]["/week8"]
+      [.cpp ]["/week8/sort1.cpp"]
+      [.cpp ]["/week8/sort2.cpp"]
+    )
+    [edt][files]{
+      ["/week8/sort1.cpp"]{
+        "add something about sort practice"
+      }
+      ["/week8/sort2.cpp"]{
+        "add something about sort practice"
+      }
+    }
+  }
 }
